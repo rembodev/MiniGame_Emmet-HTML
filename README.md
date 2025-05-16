@@ -7,7 +7,7 @@ Emmet es un plugin que permite escribir código HTML y CSS de forma ultra rápid
 
 ## 🕹️ Cómo jugar
 1. **Descarga/clona el proyecto**.
-2. Abre el archivo `index.html` en tu navegador.
+2. Abre el archivo `HyperTech Style.html` en tu navegador.
 3. **Completa cada nivel** resolviendo los desafíos de Emmet.
 4. Avanza de nivel al superar cada reto.
 
