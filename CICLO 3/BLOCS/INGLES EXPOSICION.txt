@@ -1,0 +1,61 @@
+Magnetic Storage
+
+Most PCs have an internal HDD, commonly referred to as the C: drive, which can hold several gigabytes of data. It is used to store the operating system, programs, and user files. It should be noted that additional hard drives can be added to the PC to store more data. However, HDDs are currently becoming obsolete due to their slower read speed compared to SSDs.
+
+
+
+
+The HDD, also known as a Hard Disk Drive, contains a disk inside it where information is stored using tracks and sectors. These tracks and sectors are then read by the head that is inside the HDD. You can see it in the image, visualizing the internal structure of the HDD.
+
+These would be the sectors and tracks, and this would be the head.
+
+
+
+
+
+On the other hand, we have the SSD, also known as a Solid State Drive, which is the current fastest hard drive. Unlike the HDD, the SSD does not have a disk inside it. Instead, it utilizes ROM memories to store information more efficiently. Additionally, it is lightweight, as it does not have the heavy disk mechanism.
+
+The structure of an SSD is very different from that of an HDD.
+
+
+
+
+
+
+
+
+ 
+Optical Storage
+
+Optical drives use a laser to read and write data, making them unaffected by magnetic fields; however, they are slower than hard drives. In this case, we have the CD and DVD.
+
+The CD, which stands for Compact Disc, can store up to 650-700 MB of data. Different types of CDs include:
+
+CD-ROM 
+CD-R
+CD-RW 
+
+The DVD, short for Digital Versatile Disc, is the perfect replacement for CDs, offering a unique and superior structure and capacity. Various types of DVDs include:
+
+DVD-ROM
+DVD-R or DVD+R 
+DVD-RW or DVD+RW 
+
+
+
+
+
+
+
+
+
+
+
+Removable Flash Memory
+
+Removable flash memory refers to a re-writable solid-state memory that is non-volatile, meaning it retains data even when power is turned off. This explains its popularity in small devices. 
+
+We have:
+
+Flash memory cards, commonly found in cameras, PDAs, and music players.
+Flash drives, also known as pen drives or USB drives, which allow for easy storage and transfer of data.

@@ -1,0 +1,6 @@
+MONTAR SERVIDOR
+ltsp(UBUNTU SERVER 20.04)
+vs
+tiny pxe server(WINDOWS SERVER 2019)
+fecha límite de presentacion: 08 de diciembre
+cada equipo lo sustentará meet
