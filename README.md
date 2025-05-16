@@ -1,5 +1,5 @@
 # MiniGame Emmet-HTML
-Aprendizaje de Atajos HTML Basico.
+Aprendizaje de Atajos HTML Basico hecho en ADOBE ANIMATE.
 
 ## 🎯 ¿Qué es Emmet?
 Emmet es un plugin que permite escribir código HTML y CSS de forma ultra rápida usando abreviaturas. Ejemplo:  
