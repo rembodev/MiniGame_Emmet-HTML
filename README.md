@@ -13,4 +13,3 @@ Emmet es un plugin que permite escribir código HTML y CSS de forma ultra rápid
 
 ## 🛠️ Tecnologías
 - HTML, CSS, JavaScript
-
